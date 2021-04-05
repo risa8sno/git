@@ -1,0 +1,19 @@
+・ローカルリポジトリの作成：git init
+・ローカルリポジトリの状態を見る：git status
+・ローカルリポジトリにファイルを追加：git add ファイル名
+・ローカルリポジトリにファイルをコミット：git commit -m "コメント"
+・リモートリポジトリをgithubに作成：git remote add origin リポジトリのURL
+・リモートリポジトリにプッシュ：git push origin master
+・ブランチ作成：git branch ブランチ名
+・ブランチの確認：git branch
+・ブランチの切り替え：git checkout ブランチ名
+・マージ：git merge testbranch
+
+https://github.com/risa8sno/paiza.git
+
+
+
+
+
+
+
